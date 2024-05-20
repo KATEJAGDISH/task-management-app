@@ -1,0 +1,109 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Build UI for onboarding flow",
+      "description": "sdfgfghj",
+      "status": "overdue",
+      "date": "2024-05-17"
+    },
+    {
+      "id": "2",
+      "title": "QA and test all major user journeys",
+      "description": "Once we feel version one is ready, we need to rigorously test it both internally and externally to identify any major gaps.",
+      "status": "done",
+      "date": "12-15-25"
+    },
+    {
+      "id": "4",
+      "title": "Add account management endpoints",
+      "description": "",
+      "status": "overdue",
+      "date": ""
+    },
+    {
+      "id": "5",
+      "title": "Create wireframe prototype",
+      "description": "Create a greyscale clickable wireframe prototype to test our asssumptions so far.",
+      "status": "in-progress",
+      "date": "2024-06-20"
+    },
+    {
+      "id": "6",
+      "title": "Design onboarding flow",
+      "description": "",
+      "status": "done",
+      "date": "2024-05-30"
+    },
+    {
+      "id": "7",
+      "title": "Create wireframe prototype",
+      "description": "Create a greyscale clickable wireframe prototype to test our asssumptions so far.",
+      "status": "in-progress",
+      "date": ""
+    },
+    {
+      "id": "8",
+      "title": "Design onboarding flow",
+      "description": "",
+      "status": "todo",
+      "date": "12-15-25"
+    },
+    {
+      "id": "30",
+      "title": "Implement user authentication",
+      "description": "Set up authentication system using JWT for user login and registration.",
+      "status": "overdue",
+      "date": "2024-05-18"
+    },
+    {
+      "id": "40",
+      "title": "Design database schema",
+      "description": "Plan and create the database schema to store user data and application information.",
+      "status": "in-progress",
+      "date": "2024-05-19"
+    },
+    {
+      "id": "50",
+      "title": "Develop RESTful APIs",
+      "description": "Build RESTful APIs to handle CRUD operations for various resources in the application.",
+      "status": "in-progress",
+      "date": "2024-05-20"
+    },
+    {
+      "id": "60",
+      "title": "Write unit tests",
+      "description": "Create unit tests to ensure the reliability and functionality of individual components.",
+      "status": "todo",
+      "date": "2024-05-21"
+    },
+    {
+      "id": "70",
+      "title": "Deploy application to production",
+      "description": "Deploy the application to a production server and configure for live usage.",
+      "status": "done",
+      "date": "2024-05-22"
+    },
+    {
+      "id": "80",
+      "title": "Bug fixing and optimization",
+      "description": "Address any bugs reported and optimize the performance of the application.",
+      "status": "todo",
+      "date": "2024-05-23"
+    },
+    {
+      "id": "541817419",
+      "title": "new test",
+      "description": "test",
+      "status": "overdue",
+      "date": "2024-05-18T18:11:05.000Z"
+    },
+    {
+      "id": "251232284",
+      "title": "testing",
+      "description": "backend",
+      "status": "in-progress",
+      "date": "2024-05-21T18:12:36.000Z"
+    }
+  ]
+}
