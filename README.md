@@ -19,9 +19,25 @@ npm install @emotion/styled @mui/icons-material @mui/material @mui/x-date-picker
     react-redux
     react-router-dom
 
-/*app funcationlities */
-user create task ,delete task , edit/upadte task .
-multiple views like all task , overdue task, completd task , todo task   and in-progress/working .
+App Functionalities:
 
-task filter and sorting task base on duedate and task status .
- drag-and-drop functionality aloo user to rearrange the order of task or move them diffrent categories
+1> User Actions:
+
+Create, delete, edit/update tasks.
+Multiple Views:
+
+2> All tasks view.
+Overdue tasks view.
+Completed tasks view.
+Todo tasks view.
+In-progress/working tasks view.
+
+3> Task Filtering and Sorting:
+
+Filter tasks based on due date and task status.
+Sort tasks based on due date and task status.
+
+4> Drag-and-Drop Functionality:
+
+Allows users to rearrange the order of tasks.
+Users can also move tasks between different categories.
