@@ -3,7 +3,7 @@ json-server src/tasks.json --port 3001
 
 npm start 
 
-/* required / install*/
+/* install*/
 
 npm install @emotion/styled @mui/icons-material @mui/material @mui/x-date-pickers @mui/x-date-pickers-pro @reduxjs/toolkit dayjs react-dom react-ionicons react-redux react-router-dom
 
