@@ -5,6 +5,8 @@ npm start
 
 /* required / install*/
 
+npm install @emotion/styled @mui/icons-material @mui/material @mui/x-date-pickers @mui/x-date-pickers-pro @reduxjs/toolkit dayjs react-dom react-ionicons react-redux react-router-dom
+
     @emotion/styled
     @mui/icons-material
     @mui/material
